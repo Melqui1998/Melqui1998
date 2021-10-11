@@ -1,13 +1,4 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-
-
-
-## IDIOMAS
-🏴󠁧󠁢󠁥󠁮󠁧󠁿
-
-
-**Melqui1998/melqui1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,4 +10,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+
+
+
+**Melqui1998/melqui1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
+# IDIOMAS
+🇧🇷 Fluente
+🇪🇸 Avançado
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Básico
 
