@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 
-# IDIOMAS
+## Idiomas
 🇧🇷 Fluente<br/>
 🇪🇸 Avançado<br/>
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Básico<br/>
