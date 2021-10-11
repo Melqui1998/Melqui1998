@@ -1,8 +1,13 @@
 
 
-## Bem Vindo! <img src="https://emojis.slackmojis.com/emojis/images/1615425105/19530/ugly_code.gif?1615425105" width="30" /> <img src="https://emojis.slackmojis.com/emojis/images/1617826989/28273/typing.gif?1617826989" width="30" />
+## Bem Vindo! <img src="https://emojis.slackmojis.com/emojis/images/1615425105/19530/ugly_code.gif?1615425105" width="30" />  <img src="https://emojis.slackmojis.com/emojis/images/1617826989/28273/typing.gif?1617826989" width="30" />
 Here are some ideas to get you started:
 
+<div>
+🎓 SENACSP - Análise e Desenvolvimento de Sistemas 1/6 <br/>
+💼 Prefeitura de Osasco (Adimnistrativo)<br/>
+🏠 Embu das Artes <br/>
+</div>
 
 
 - 🔭 I’m currently working on ...
