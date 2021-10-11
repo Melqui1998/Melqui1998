@@ -1,6 +1,5 @@
 ### Hi there 👋
-<table>
-  <tr>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,8 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
