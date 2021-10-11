@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 <div>
-🎓 SENACSP - Análise e Desenvolvimento de Sistemas 1/6 <br/>
+🎓 SENACSP - Análise e Desenvolvimento de Sistemas 1/5 <br/>
 💼 Prefeitura de Osasco (Adimnistrativo)<br/>
 🏠 Embu das Artes <br/>
 </div>
