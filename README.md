@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 
 # IDIOMAS
-🇧🇷 Fluente
-🇪🇸 Avançado
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 Básico
+🇧🇷 Fluente<br/>
+🇪🇸 Avançado<br/>
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Básico<br/>
 
 <table>
