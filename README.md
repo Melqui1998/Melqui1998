@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melqui1998)](https://github.com/melqui1998/github-readme-stats)
 
 
@@ -38,8 +41,11 @@ Here are some ideas to get you started:
 
 
 ## Idiomas
-🇧🇷 Fluente<br/>
-🇪🇸 Avançado<br/>
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 Básico<br/>
+
+<img src="https://user-images.githubusercontent.com/89542156/137155163-5ab77cb3-36c2-419b-b323-8a885c2f15d6.gif" width="20" /> Fluente<br/>
+<img src="https://user-images.githubusercontent.com/89542156/137155172-cf3137ae-b65d-44f6-86e3-6236014c1251.gif" width="20"/> Avançado<br/>
+<img src="https://user-images.githubusercontent.com/89542156/137155178-11b716f5-e68b-4f4f-8a9b-ffbd351f0911.gif" width="20" /> Básico
+
+
 
 <table>
