@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+
+## Linguagens e Ferramentas
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/netbeans-1.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="40" height="40"/>
+
 
 
 
