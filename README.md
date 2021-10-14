@@ -9,16 +9,7 @@ Here are some ideas to get you started:
 🏠 Embu das Artes <br/>
 </div>
 
-<--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 ## Linguagens e Ferramentas
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/netbeans-1.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="40" height="40"/>
@@ -29,12 +20,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melqui1998)](https://github.com/melqui1998/github-readme-stats)
 
-
-
-**Melqui1998/melqui1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-# 
 
 
 
