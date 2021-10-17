@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 💼 Prefeitura de Osasco (administrativo)<br/>
 🏠 Embu das Artes <br/>
 </div>
-
+<br/>
 
 
 ## Linguagens e Ferramentas
