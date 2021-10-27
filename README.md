@@ -10,7 +10,7 @@
 </div>
 <br/>
 <br/>
-<br/>
+
 ## Linguagens e Ferramentas
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/netbeans-1.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="40" height="40"/>
 
