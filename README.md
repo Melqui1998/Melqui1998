@@ -22,16 +22,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melqui1998)](https://github.com/melqui1998/github-readme-stats)
 
 
-
-
-
-
-
-
-
-## Idiomas
-
-<img src="https://user-images.githubusercontent.com/89542156/137155172-cf3137ae-b65d-44f6-86e3-6236014c1251.gif" width="20"/> Avançado<br/>
-<img src="https://user-images.githubusercontent.com/89542156/137155163-5ab77cb3-36c2-419b-b323-8a885c2f15d6.gif" width="20" /> Básico<br/>
-
 <table>
