@@ -5,7 +5,6 @@
 
 <div>
 🎓 SENACSP - Análise e Desenvolvimento de Sistemas 1/5 <br/>
-💼 Prefeitura de Osasco (administrativo)<br/>
 🏠 Embu das Artes <br/>
 </div>
 <br/>
