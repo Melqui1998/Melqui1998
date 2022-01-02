@@ -4,7 +4,7 @@
 
 
 <div>
-🎓 SENACSP - Análise e Desenvolvimento de Sistemas 1/5 <br/>
+🎓 SENACSP - Análise e Desenvolvimento de Sistemas <br/>
 🏠 Embu das Artes <br/>
 </div>
 <br/>
