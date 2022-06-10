@@ -6,7 +6,7 @@
 <div>
 👨🏽‍💻 Fullstack Developer <br/>
 🎓 Centro Universitário SENAC - Análise e Desenvolvimento de Sistemas <br/>
-🏠 Embu das Artes <br/>
+🏠 São Paulo 🇧🇷<br/>
 </div>
 <br/>
 <br/>
