@@ -3,10 +3,10 @@
 ## Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1615425105/19530/ugly_code.gif?1615425105" width="30" />  <img src="https://emojis.slackmojis.com/emojis/images/1617826989/28273/typing.gif?1617826989" width="30" />
 
 
-<div>
+<!-- <div>
 🎓 Centro Universitário SENAC - Análise e Desenvolvimento de Sistemas <br/>
 🏠 São Paulo 🇧🇷<br/>
-</div>
+</div> -->
 <br/>
 <br/>
 
