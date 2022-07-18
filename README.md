@@ -1,6 +1,6 @@
 
 
-## Welcome! I'm Melqui Vieira <img src="https://emojis.slackmojis.com/emojis/images/1615425105/19530/ugly_code.gif?1615425105" width="30" />  <img src="https://emojis.slackmojis.com/emojis/images/1617826989/28273/typing.gif?1617826989" width="30" />
+## Welcome, I'm Melqui Vieira! <img src="https://emojis.slackmojis.com/emojis/images/1615425105/19530/ugly_code.gif?1615425105" width="30" />  <img src="https://emojis.slackmojis.com/emojis/images/1617826989/28273/typing.gif?1617826989" width="30" />
 
 - 🏠 São Paulo, Brazil<br>
 - 🎓 Centro Universitário SENAC - Análise e Desenvolvimento de Sistemas <br>
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50px" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50px" />
+  
 </div>
 
 ##### Frameworks and Libraries
@@ -27,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50px"/>
 </div>
 
 ##### Tools
