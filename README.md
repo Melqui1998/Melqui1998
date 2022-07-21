@@ -4,7 +4,7 @@
 
 
 - 🏠 São Paulo, Brazil<br>
-- 🎓 Centro Universitário SENAC - Análise e Desenvolvimento de Sistemas <br>
+- 🎓 Análise e Desenvolvimento de Sistemas - Centro Universitário SENAC<br>
 - 🌱 Currently learning Typescript and Postgree SQL<br>
 <br>
 
