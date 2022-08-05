@@ -5,7 +5,7 @@
 
 - 🏠 São Paulo, Brazil<br>
 - 🎓 Análise e Desenvolvimento de Sistemas - Centro Universitário SENAC<br>
-- 🌱 Currently learning Typescript and Postgree SQL<br>
+- 🌱 Currently learning ReactJS and Node.js SQL<br>
 <br>
 
 ## Tech Stack
