@@ -56,6 +56,6 @@
 ## Find me
 <a href="https://www.linkedin.com/in/ms-vieira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230072b1.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/up.melquk" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4505F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Deezer-%23000000.svg?&style=flat-square&logo=deezer&logoColor=orange" alt="Spotify"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-%23f48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
